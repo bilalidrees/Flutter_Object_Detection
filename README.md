@@ -1,16 +1,5 @@
-# object_detection
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![x](https://user-images.githubusercontent.com/36483283/148641745-041266a7-f530-4261-93cf-afc644e57238.jpg)
+![a](https://user-images.githubusercontent.com/36483283/148641750-4d7e1aab-c9d8-4270-a731-180c48fc55a1.jpg)
+![c](https://user-images.githubusercontent.com/36483283/148641755-c0a407a1-66db-4227-b921-357ffa9537c4.jpg)
+![index](https://user-images.githubusercontent.com/36483283/148641765-5a5e096a-21d1-4aac-978a-3b2976b1758d.jpg)
+![v](https://user-images.githubusercontent.com/36483283/148641767-450aded7-b675-4009-89e1-5b714f624397.jpg)
